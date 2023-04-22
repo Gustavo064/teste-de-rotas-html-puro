@@ -1,0 +1,43 @@
+#menu{
+	height: 50px;
+	width: 100%;
+	background-color: #000000;
+	padding-top:25px;
+	text-align:center;
+}
+#menu ul li{
+	height: 50px;
+	width: 100%;
+	display: inline;
+	list-style: none;
+	padding-top: 50px;
+	padding: 20PX; 
+
+}
+#menu ul li a{
+	color: #A9A9A9;
+	text-decoration: none; 
+	font-family: helvetica;
+	font-weight: 900;
+
+
+
+
+}
+#menu ul li a:hover{
+	color: #FFFFFF
+
+}
+*{
+	margin: 0px;
+
+}
+.titulo{
+	text-align: center;
+    padding-top: 50px;
+    font-size:35px;
+    font-family:helvetica;
+    font-weight: 450;
+
+
+}
